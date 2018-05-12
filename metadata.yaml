@@ -1,0 +1,32 @@
+_repo: ABC-of-Fox-Hunting_30243
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30243-h/images/fox-cover2.jpg
+creator:
+  author:
+    agent_name: Paul, John Dean, Sir
+    alias: Paul, Sir John Dean, bart.
+    birthdate: 1775
+    deathdate: 1852
+    gutenberg_agent_id: '34460'
+    url: http://www.gutenberg.org/2009/agents/34460
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Trapping
+gutenberg_issued: '2009-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30243'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alphabets'
+- !lcsh 'Fox hunting'
+- !lcsh 'Horses'
+- !lcc 'PR'
+title: ABC of Fox Hunting
+url: http://www.gutenberg.org/ebooks/30243
